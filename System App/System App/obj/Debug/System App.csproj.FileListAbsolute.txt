@@ -1,0 +1,18 @@
+D:\COLLECTIONSSS\PS TEST\System App\System App\bin\Debug\Database1.mdf
+D:\COLLECTIONSSS\PS TEST\System App\System App\bin\Debug\Database1_log.ldf
+D:\COLLECTIONSSS\PS TEST\System App\System App\bin\Debug\System App.exe.config
+D:\COLLECTIONSSS\PS TEST\System App\System App\bin\Debug\System App.exe
+D:\COLLECTIONSSS\PS TEST\System App\System App\bin\Debug\System App.pdb
+D:\COLLECTIONSSS\PS TEST\System App\System App\bin\Debug\EntityFramework.dll
+D:\COLLECTIONSSS\PS TEST\System App\System App\bin\Debug\EntityFramework.SqlServer.dll
+D:\COLLECTIONSSS\PS TEST\System App\System App\bin\Debug\EntityFramework.xml
+D:\COLLECTIONSSS\PS TEST\System App\System App\bin\Debug\EntityFramework.SqlServer.xml
+D:\COLLECTIONSSS\PS TEST\System App\System App\obj\Debug\System App.csproj.AssemblyReference.cache
+D:\COLLECTIONSSS\PS TEST\System App\System App\obj\Debug\System App.csproj.SuggestedBindingRedirects.cache
+D:\COLLECTIONSSS\PS TEST\System App\System App\obj\Debug\System_App.Form1.resources
+D:\COLLECTIONSSS\PS TEST\System App\System App\obj\Debug\System_App.Properties.Resources.resources
+D:\COLLECTIONSSS\PS TEST\System App\System App\obj\Debug\System App.csproj.GenerateResource.cache
+D:\COLLECTIONSSS\PS TEST\System App\System App\obj\Debug\System App.csproj.CoreCompileInputs.cache
+D:\COLLECTIONSSS\PS TEST\System App\System App\obj\Debug\System App.csproj.CopyComplete
+D:\COLLECTIONSSS\PS TEST\System App\System App\obj\Debug\System App.exe
+D:\COLLECTIONSSS\PS TEST\System App\System App\obj\Debug\System App.pdb
